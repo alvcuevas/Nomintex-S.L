@@ -1,0 +1,12 @@
+/* Empty. Add your own CSS if you like */
+.noresumido{
+	background-color: #FDF2D1 !important;
+}
+
+.noresumido .item-content{
+	background: transparent;
+}
+
+.centra-texto{
+	text-align:center;
+}
